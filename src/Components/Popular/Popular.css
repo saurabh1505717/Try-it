@@ -7,7 +7,6 @@
 }
 
 .popular h1{
-    /* color: #171717; */
     color: #f47037;
     font-size: 50px;
     font-weight: 600;
@@ -17,7 +16,6 @@
     width: 200px;
     height: 6px;
     border-radius: 10px;
-    /* background: #252525; */
     background: #f47037;
 }
 
